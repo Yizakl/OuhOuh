@@ -11,6 +11,9 @@
 5. **复读功能**：允许用户让机器人重复指定内容若干次。
 6. **Ping 测试**：测试机器人与 Discord 服务器的延迟。
 
+## 邀请至服务器
+### [OAuth2](https://discord.com/oauth2/authorize?client_id=1274155750024806411&permissions=137439234048&integration_type=0&scope=bot)
+
 ## 安装与运行
 
 1. **克隆仓库**：
