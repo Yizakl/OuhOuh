@@ -42,7 +42,7 @@
 
 4. **运行机器人**：
    ```bash
-   python bot.py
+   python ouhouh.py
    ```
 
 ## 命令说明
