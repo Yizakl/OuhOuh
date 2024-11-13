@@ -143,6 +143,16 @@ OuhOuh 是一个基于 Discord.py 库开发的 Discord 机器人。它能够实�
 
 用于记录每个用户请求运势的日期，避免同一天重复请求。
 
+
+
+
+## OAuth2 认证链接
+
+你可以通过以下链接将 **OuhOuh Bot** 添加到你的 Discord 服务器中：
+
+[点击这里添加 OuhOuh Bot](https://discord.com/oauth2/authorize?client_id=1274155750024806411&permissions=2048&integration_type=0&scope=bot)
+
+
 ## 贡献
 
 欢迎提交问题、提建议或贡献代码！若要贡献，请遵循以下步骤：
